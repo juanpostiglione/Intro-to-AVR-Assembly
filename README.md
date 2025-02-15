@@ -1,4 +1,4 @@
-# Intro-to-AVR-Assembly
+AVR Assembly 
 
 Introduction
 
